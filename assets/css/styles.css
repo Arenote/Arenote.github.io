@@ -223,7 +223,7 @@ section{
         padding: 0 3rem;
     }
     .hero .hero-img img {
-        width: 80%;
+        width: 40%;
     }
 }
 @media (max-width: 768px) {
